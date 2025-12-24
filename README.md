@@ -38,13 +38,6 @@
   <img src="https://komarev.com/ghpvc/?username=JanNguy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/JanNguy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JanNguy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Jan's GitHub stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanNguy&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages"/>
-  </a>
-</p>
-
 ---
 
 <p align="center">
