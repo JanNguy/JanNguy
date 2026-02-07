@@ -57,7 +57,6 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=JanNguy&label=Profile%20views&color=0e75b6&style=flat" />
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=JanNguy&show_icons=true&theme=neutral" />
 </p>
 
 ---
