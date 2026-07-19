@@ -2,7 +2,7 @@
 <h3 align="center">🇫🇷 Software Developer — Rust · C · TypeScript · React</h3>
 
 <p align="center">
-    <a href="https://jannguyen.vercel.app/" target="_blank">Portfolio</a> •
+    <a href="https://https://jannguyen.codes/" target="_blank">Portfolio</a> •
     <a href="https://www.linkedin.com/in/jan-nguyen-0aa40b315/" target="_blank">LinkedIn</a>
 </p>
 
