@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-    <a href="https://https://jannguyen.codes/" target="_blank">Portfolio</a> •
+    <a href="https://jannguyen.codes/" target="_blank">Portfolio</a> •
     <a href="https://www.linkedin.com/in/jan-nguyen-0aa40b315/" target="_blank">LinkedIn</a>
 </p>
 
